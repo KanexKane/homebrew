@@ -1,0 +1,12 @@
+cask
+sublime-text
+firefox
+telegram
+visual-studio-code
+vlc
+google-chrome
+iterm2
+appcleaner
+karabiner-elements
+keyboard-maestro
+opera

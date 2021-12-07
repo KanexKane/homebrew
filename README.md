@@ -1,2 +1,7 @@
-# homebrew
-Homebrew install package
+# Homebrew
+แพ็คเกจที่ใช้ประจำบนเครื่อง
+
+## วิธีการใช้งาน
+หลังจากทำการติดตั้ง homebrew ตามปกติแล้ว ให้ทำการโหลดไฟล์ brew.txt จากนั้นเมื่อต้องการติดตั้งก็ให้เปิด Terminal แล้วสั่ง
+
+xargs brew install < brew.txt
